@@ -1,0 +1,3 @@
+C:\Users\rodrigo.ramalho\Desktop\MyApiComplete\src\DevIO.Business\obj\Debug\netcoreapp3.1\DevIO.Business.csprojAssemblyReference.cache
+C:\Users\rodrigo.ramalho\Desktop\MyApiComplete\src\DevIO.Business\obj\Debug\netcoreapp3.1\DevIO.Business.AssemblyInfoInputs.cache
+C:\Users\rodrigo.ramalho\Desktop\MyApiComplete\src\DevIO.Business\obj\Debug\netcoreapp3.1\DevIO.Business.AssemblyInfo.cs

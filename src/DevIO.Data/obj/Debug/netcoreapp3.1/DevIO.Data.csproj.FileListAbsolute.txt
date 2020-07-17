@@ -1,0 +1,52 @@
+C:\Users\rodrigo.ramalho\source\repos\MyAppMvcComplete\src\DevIO.Data\bin\Debug\netcoreapp3.1\DevIO.Data.deps.json
+C:\Users\rodrigo.ramalho\source\repos\MyAppMvcComplete\src\DevIO.Data\bin\Debug\netcoreapp3.1\DevIO.Data.runtimeconfig.json
+C:\Users\rodrigo.ramalho\source\repos\MyAppMvcComplete\src\DevIO.Data\bin\Debug\netcoreapp3.1\DevIO.Data.runtimeconfig.dev.json
+C:\Users\rodrigo.ramalho\source\repos\MyAppMvcComplete\src\DevIO.Data\bin\Debug\netcoreapp3.1\DevIO.Data.dll
+C:\Users\rodrigo.ramalho\source\repos\MyAppMvcComplete\src\DevIO.Data\bin\Debug\netcoreapp3.1\DevIO.Data.pdb
+C:\Users\rodrigo.ramalho\source\repos\MyAppMvcComplete\src\DevIO.Data\bin\Debug\netcoreapp3.1\DevIO.Business.dll
+C:\Users\rodrigo.ramalho\source\repos\MyAppMvcComplete\src\DevIO.Data\bin\Debug\netcoreapp3.1\DevIO.Business.pdb
+C:\Users\rodrigo.ramalho\source\repos\MyAppMvcComplete\src\DevIO.Data\obj\Debug\netcoreapp3.1\DevIO.Data.csprojAssemblyReference.cache
+C:\Users\rodrigo.ramalho\source\repos\MyAppMvcComplete\src\DevIO.Data\obj\Debug\netcoreapp3.1\DevIO.Data.AssemblyInfoInputs.cache
+C:\Users\rodrigo.ramalho\source\repos\MyAppMvcComplete\src\DevIO.Data\obj\Debug\netcoreapp3.1\DevIO.Data.AssemblyInfo.cs
+C:\Users\rodrigo.ramalho\source\repos\MyAppMvcComplete\src\DevIO.Data\obj\Debug\netcoreapp3.1\DevIO.Data.csproj.CopyComplete
+C:\Users\rodrigo.ramalho\source\repos\MyAppMvcComplete\src\DevIO.Data\obj\Debug\netcoreapp3.1\DevIO.Data.dll
+C:\Users\rodrigo.ramalho\source\repos\MyAppMvcComplete\src\DevIO.Data\obj\Debug\netcoreapp3.1\DevIO.Data.pdb
+C:\Users\Família-Figueira\Desktop\Meu Projeto\MyAppMvcComplet---Asp-Net-Core\src\DevIO.Data\bin\Debug\netcoreapp3.1\DevIO.Data.deps.json
+C:\Users\Família-Figueira\Desktop\Meu Projeto\MyAppMvcComplet---Asp-Net-Core\src\DevIO.Data\bin\Debug\netcoreapp3.1\DevIO.Data.runtimeconfig.json
+C:\Users\Família-Figueira\Desktop\Meu Projeto\MyAppMvcComplet---Asp-Net-Core\src\DevIO.Data\bin\Debug\netcoreapp3.1\DevIO.Data.runtimeconfig.dev.json
+C:\Users\Família-Figueira\Desktop\Meu Projeto\MyAppMvcComplet---Asp-Net-Core\src\DevIO.Data\bin\Debug\netcoreapp3.1\DevIO.Data.dll
+C:\Users\Família-Figueira\Desktop\Meu Projeto\MyAppMvcComplet---Asp-Net-Core\src\DevIO.Data\bin\Debug\netcoreapp3.1\DevIO.Data.pdb
+C:\Users\Família-Figueira\Desktop\Meu Projeto\MyAppMvcComplet---Asp-Net-Core\src\DevIO.Data\bin\Debug\netcoreapp3.1\DevIO.Business.dll
+C:\Users\Família-Figueira\Desktop\Meu Projeto\MyAppMvcComplet---Asp-Net-Core\src\DevIO.Data\bin\Debug\netcoreapp3.1\DevIO.Business.pdb
+C:\Users\Família-Figueira\Desktop\Meu Projeto\MyAppMvcComplet---Asp-Net-Core\src\DevIO.Data\obj\Debug\netcoreapp3.1\DevIO.Data.csprojAssemblyReference.cache
+C:\Users\Família-Figueira\Desktop\Meu Projeto\MyAppMvcComplet---Asp-Net-Core\src\DevIO.Data\obj\Debug\netcoreapp3.1\DevIO.Data.AssemblyInfoInputs.cache
+C:\Users\Família-Figueira\Desktop\Meu Projeto\MyAppMvcComplet---Asp-Net-Core\src\DevIO.Data\obj\Debug\netcoreapp3.1\DevIO.Data.AssemblyInfo.cs
+C:\Users\Família-Figueira\Desktop\Meu Projeto\MyAppMvcComplet---Asp-Net-Core\src\DevIO.Data\obj\Debug\netcoreapp3.1\DevIO.Data.csproj.CopyComplete
+C:\Users\Família-Figueira\Desktop\Meu Projeto\MyAppMvcComplet---Asp-Net-Core\src\DevIO.Data\obj\Debug\netcoreapp3.1\DevIO.Data.dll
+C:\Users\Família-Figueira\Desktop\Meu Projeto\MyAppMvcComplet---Asp-Net-Core\src\DevIO.Data\obj\Debug\netcoreapp3.1\DevIO.Data.pdb
+C:\Users\rodrigo.ramalho\Desktop\Projeto2\MyAppMvcComplet---Asp-Net-Core\src\DevIO.Data\bin\Debug\netcoreapp3.1\DevIO.Data.deps.json
+C:\Users\rodrigo.ramalho\Desktop\Projeto2\MyAppMvcComplet---Asp-Net-Core\src\DevIO.Data\bin\Debug\netcoreapp3.1\DevIO.Data.runtimeconfig.json
+C:\Users\rodrigo.ramalho\Desktop\Projeto2\MyAppMvcComplet---Asp-Net-Core\src\DevIO.Data\bin\Debug\netcoreapp3.1\DevIO.Data.runtimeconfig.dev.json
+C:\Users\rodrigo.ramalho\Desktop\Projeto2\MyAppMvcComplet---Asp-Net-Core\src\DevIO.Data\bin\Debug\netcoreapp3.1\DevIO.Data.dll
+C:\Users\rodrigo.ramalho\Desktop\Projeto2\MyAppMvcComplet---Asp-Net-Core\src\DevIO.Data\bin\Debug\netcoreapp3.1\DevIO.Data.pdb
+C:\Users\rodrigo.ramalho\Desktop\Projeto2\MyAppMvcComplet---Asp-Net-Core\src\DevIO.Data\bin\Debug\netcoreapp3.1\DevIO.Business.dll
+C:\Users\rodrigo.ramalho\Desktop\Projeto2\MyAppMvcComplet---Asp-Net-Core\src\DevIO.Data\bin\Debug\netcoreapp3.1\DevIO.Business.pdb
+C:\Users\rodrigo.ramalho\Desktop\Projeto2\MyAppMvcComplet---Asp-Net-Core\src\DevIO.Data\obj\Debug\netcoreapp3.1\DevIO.Data.csprojAssemblyReference.cache
+C:\Users\rodrigo.ramalho\Desktop\Projeto2\MyAppMvcComplet---Asp-Net-Core\src\DevIO.Data\obj\Debug\netcoreapp3.1\DevIO.Data.AssemblyInfoInputs.cache
+C:\Users\rodrigo.ramalho\Desktop\Projeto2\MyAppMvcComplet---Asp-Net-Core\src\DevIO.Data\obj\Debug\netcoreapp3.1\DevIO.Data.AssemblyInfo.cs
+C:\Users\rodrigo.ramalho\Desktop\Projeto2\MyAppMvcComplet---Asp-Net-Core\src\DevIO.Data\obj\Debug\netcoreapp3.1\DevIO.Data.csproj.CopyComplete
+C:\Users\rodrigo.ramalho\Desktop\Projeto2\MyAppMvcComplet---Asp-Net-Core\src\DevIO.Data\obj\Debug\netcoreapp3.1\DevIO.Data.dll
+C:\Users\rodrigo.ramalho\Desktop\Projeto2\MyAppMvcComplet---Asp-Net-Core\src\DevIO.Data\obj\Debug\netcoreapp3.1\DevIO.Data.pdb
+C:\Users\rodrigo.ramalho\Desktop\MyApiComplete\src\DevIO.Data\bin\Debug\netcoreapp3.1\DevIO.Data.deps.json
+C:\Users\rodrigo.ramalho\Desktop\MyApiComplete\src\DevIO.Data\bin\Debug\netcoreapp3.1\DevIO.Data.runtimeconfig.json
+C:\Users\rodrigo.ramalho\Desktop\MyApiComplete\src\DevIO.Data\bin\Debug\netcoreapp3.1\DevIO.Data.runtimeconfig.dev.json
+C:\Users\rodrigo.ramalho\Desktop\MyApiComplete\src\DevIO.Data\bin\Debug\netcoreapp3.1\DevIO.Data.dll
+C:\Users\rodrigo.ramalho\Desktop\MyApiComplete\src\DevIO.Data\bin\Debug\netcoreapp3.1\DevIO.Data.pdb
+C:\Users\rodrigo.ramalho\Desktop\MyApiComplete\src\DevIO.Data\bin\Debug\netcoreapp3.1\DevIO.Business.dll
+C:\Users\rodrigo.ramalho\Desktop\MyApiComplete\src\DevIO.Data\bin\Debug\netcoreapp3.1\DevIO.Business.pdb
+C:\Users\rodrigo.ramalho\Desktop\MyApiComplete\src\DevIO.Data\obj\Debug\netcoreapp3.1\DevIO.Data.csprojAssemblyReference.cache
+C:\Users\rodrigo.ramalho\Desktop\MyApiComplete\src\DevIO.Data\obj\Debug\netcoreapp3.1\DevIO.Data.AssemblyInfoInputs.cache
+C:\Users\rodrigo.ramalho\Desktop\MyApiComplete\src\DevIO.Data\obj\Debug\netcoreapp3.1\DevIO.Data.AssemblyInfo.cs
+C:\Users\rodrigo.ramalho\Desktop\MyApiComplete\src\DevIO.Data\obj\Debug\netcoreapp3.1\DevIO.Data.csproj.CopyComplete
+C:\Users\rodrigo.ramalho\Desktop\MyApiComplete\src\DevIO.Data\obj\Debug\netcoreapp3.1\DevIO.Data.dll
+C:\Users\rodrigo.ramalho\Desktop\MyApiComplete\src\DevIO.Data\obj\Debug\netcoreapp3.1\DevIO.Data.pdb
