@@ -49,13 +49,6 @@ namespace DevIO.Business.Services
             return true;
         }
 
-        public async Task AtualizarEndereco(Endereco endereco)
-        {
-            if (!ExecutarValidacao(new EnderecoValidation(), endereco)) return;
-
-            await _enderecoRepository.Atualizar(endereco);
-        }
-
         public async Task<bool> Remover(Guid id)
         {
             if (_fornecedorRepository.ObterFornecedorProdutosEndereco(id).Result.Produtos.Any())
@@ -73,6 +66,13 @@ namespace DevIO.Business.Services
 
             await _fornecedorRepository.Remover(id);
             return true;
+        }
+
+        public async Task AtualizarEndereco(Endereco endereco)
+        {
+            if (!ExecutarValidacao(new EnderecoValidation(), endereco)) return;
+
+            await _enderecoRepository.Atualizar(endereco);
         }
 
         public void Dispose()

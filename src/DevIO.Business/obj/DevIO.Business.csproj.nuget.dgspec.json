@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\rodrigo.ramalho\\Desktop\\MyApiComplete\\src\\DevIO.Business\\DevIO.Business.csproj": {}
+    "C:\\Users\\rodrigo.ramalho\\Desktop\\MyAPIComplete\\src\\DevIO.Business\\DevIO.Business.csproj": {}
   },
   "projects": {
-    "C:\\Users\\rodrigo.ramalho\\Desktop\\MyApiComplete\\src\\DevIO.Business\\DevIO.Business.csproj": {
+    "C:\\Users\\rodrigo.ramalho\\Desktop\\MyAPIComplete\\src\\DevIO.Business\\DevIO.Business.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\rodrigo.ramalho\\Desktop\\MyApiComplete\\src\\DevIO.Business\\DevIO.Business.csproj",
+        "projectUniqueName": "C:\\Users\\rodrigo.ramalho\\Desktop\\MyAPIComplete\\src\\DevIO.Business\\DevIO.Business.csproj",
         "projectName": "DevIO.Business",
-        "projectPath": "C:\\Users\\rodrigo.ramalho\\Desktop\\MyApiComplete\\src\\DevIO.Business\\DevIO.Business.csproj",
+        "projectPath": "C:\\Users\\rodrigo.ramalho\\Desktop\\MyAPIComplete\\src\\DevIO.Business\\DevIO.Business.csproj",
         "packagesPath": "C:\\Users\\rodrigo.ramalho\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\rodrigo.ramalho\\Desktop\\MyApiComplete\\src\\DevIO.Business\\obj\\",
+        "outputPath": "C:\\Users\\rodrigo.ramalho\\Desktop\\MyAPIComplete\\src\\DevIO.Business\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -40,6 +40,12 @@
       },
       "frameworks": {
         "netcoreapp3.1": {
+          "dependencies": {
+            "FluentValidation": {
+              "target": "Package",
+              "version": "[9.0.1, )"
+            }
+          },
           "imports": [
             "net461",
             "net462",

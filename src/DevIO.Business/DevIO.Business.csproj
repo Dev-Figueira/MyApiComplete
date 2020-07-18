@@ -14,8 +14,12 @@
   </ItemGroup>
 
   <ItemGroup>
-    <Folder Include="Notifications\" />
+    <Folder Include="Notificacoes\" />
     <Folder Include="Services\" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <PackageReference Include="FluentValidation" Version="9.0.1" />
   </ItemGroup>
 
 </Project>

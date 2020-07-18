@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\rodrigo.ramalho\\Desktop\\MyApiComplete\\src\\DevIO.Api\\DevIO.Api.csproj": {}
+    "C:\\Users\\rodrigo.ramalho\\Desktop\\MyAPIComplete\\src\\DevIO.Api\\DevIO.Api.csproj": {}
   },
   "projects": {
-    "C:\\Users\\rodrigo.ramalho\\Desktop\\MyApiComplete\\src\\DevIO.Api\\DevIO.Api.csproj": {
+    "C:\\Users\\rodrigo.ramalho\\Desktop\\MyAPIComplete\\src\\DevIO.Api\\DevIO.Api.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\rodrigo.ramalho\\Desktop\\MyApiComplete\\src\\DevIO.Api\\DevIO.Api.csproj",
+        "projectUniqueName": "C:\\Users\\rodrigo.ramalho\\Desktop\\MyAPIComplete\\src\\DevIO.Api\\DevIO.Api.csproj",
         "projectName": "DevIO.Api",
-        "projectPath": "C:\\Users\\rodrigo.ramalho\\Desktop\\MyApiComplete\\src\\DevIO.Api\\DevIO.Api.csproj",
+        "projectPath": "C:\\Users\\rodrigo.ramalho\\Desktop\\MyAPIComplete\\src\\DevIO.Api\\DevIO.Api.csproj",
         "packagesPath": "C:\\Users\\rodrigo.ramalho\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\rodrigo.ramalho\\Desktop\\MyApiComplete\\src\\DevIO.Api\\obj\\",
+        "outputPath": "C:\\Users\\rodrigo.ramalho\\Desktop\\MyAPIComplete\\src\\DevIO.Api\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -30,11 +30,11 @@
         "frameworks": {
           "netcoreapp3.1": {
             "projectReferences": {
-              "C:\\Users\\rodrigo.ramalho\\Desktop\\MyApiComplete\\src\\DevIO.Business\\DevIO.Business.csproj": {
-                "projectPath": "C:\\Users\\rodrigo.ramalho\\Desktop\\MyApiComplete\\src\\DevIO.Business\\DevIO.Business.csproj"
+              "C:\\Users\\rodrigo.ramalho\\Desktop\\MyAPIComplete\\src\\DevIO.Business\\DevIO.Business.csproj": {
+                "projectPath": "C:\\Users\\rodrigo.ramalho\\Desktop\\MyAPIComplete\\src\\DevIO.Business\\DevIO.Business.csproj"
               },
-              "C:\\Users\\rodrigo.ramalho\\Desktop\\MyApiComplete\\src\\DevIO.Data\\DevIO.Data.csproj": {
-                "projectPath": "C:\\Users\\rodrigo.ramalho\\Desktop\\MyApiComplete\\src\\DevIO.Data\\DevIO.Data.csproj"
+              "C:\\Users\\rodrigo.ramalho\\Desktop\\MyAPIComplete\\src\\DevIO.Data\\DevIO.Data.csproj": {
+                "projectPath": "C:\\Users\\rodrigo.ramalho\\Desktop\\MyAPIComplete\\src\\DevIO.Data\\DevIO.Data.csproj"
               }
             }
           }
@@ -47,6 +47,30 @@
       },
       "frameworks": {
         "netcoreapp3.1": {
+          "dependencies": {
+            "AutoMapper.Extensions.Microsoft.DependencyInjection": {
+              "target": "Package",
+              "version": "[8.0.1, )"
+            },
+            "Microsoft.AspNetCore.Identity.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[3.1.6, )"
+            },
+            "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[3.1.6, )"
+            },
+            "Microsoft.EntityFrameworkCore.SqlServer": {
+              "target": "Package",
+              "version": "[3.1.6, )"
+            },
+            "Microsoft.EntityFrameworkCore.Tools": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[3.1.6, )"
+            }
+          },
           "imports": [
             "net461",
             "net462",
@@ -69,14 +93,14 @@
         }
       }
     },
-    "C:\\Users\\rodrigo.ramalho\\Desktop\\MyApiComplete\\src\\DevIO.Business\\DevIO.Business.csproj": {
+    "C:\\Users\\rodrigo.ramalho\\Desktop\\MyAPIComplete\\src\\DevIO.Business\\DevIO.Business.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\rodrigo.ramalho\\Desktop\\MyApiComplete\\src\\DevIO.Business\\DevIO.Business.csproj",
+        "projectUniqueName": "C:\\Users\\rodrigo.ramalho\\Desktop\\MyAPIComplete\\src\\DevIO.Business\\DevIO.Business.csproj",
         "projectName": "DevIO.Business",
-        "projectPath": "C:\\Users\\rodrigo.ramalho\\Desktop\\MyApiComplete\\src\\DevIO.Business\\DevIO.Business.csproj",
+        "projectPath": "C:\\Users\\rodrigo.ramalho\\Desktop\\MyAPIComplete\\src\\DevIO.Business\\DevIO.Business.csproj",
         "packagesPath": "C:\\Users\\rodrigo.ramalho\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\rodrigo.ramalho\\Desktop\\MyApiComplete\\src\\DevIO.Business\\obj\\",
+        "outputPath": "C:\\Users\\rodrigo.ramalho\\Desktop\\MyAPIComplete\\src\\DevIO.Business\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -105,6 +129,12 @@
       },
       "frameworks": {
         "netcoreapp3.1": {
+          "dependencies": {
+            "FluentValidation": {
+              "target": "Package",
+              "version": "[9.0.1, )"
+            }
+          },
           "imports": [
             "net461",
             "net462",
@@ -124,14 +154,14 @@
         }
       }
     },
-    "C:\\Users\\rodrigo.ramalho\\Desktop\\MyApiComplete\\src\\DevIO.Data\\DevIO.Data.csproj": {
+    "C:\\Users\\rodrigo.ramalho\\Desktop\\MyAPIComplete\\src\\DevIO.Data\\DevIO.Data.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\rodrigo.ramalho\\Desktop\\MyApiComplete\\src\\DevIO.Data\\DevIO.Data.csproj",
+        "projectUniqueName": "C:\\Users\\rodrigo.ramalho\\Desktop\\MyAPIComplete\\src\\DevIO.Data\\DevIO.Data.csproj",
         "projectName": "DevIO.Data",
-        "projectPath": "C:\\Users\\rodrigo.ramalho\\Desktop\\MyApiComplete\\src\\DevIO.Data\\DevIO.Data.csproj",
+        "projectPath": "C:\\Users\\rodrigo.ramalho\\Desktop\\MyAPIComplete\\src\\DevIO.Data\\DevIO.Data.csproj",
         "packagesPath": "C:\\Users\\rodrigo.ramalho\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\rodrigo.ramalho\\Desktop\\MyApiComplete\\src\\DevIO.Data\\obj\\",
+        "outputPath": "C:\\Users\\rodrigo.ramalho\\Desktop\\MyAPIComplete\\src\\DevIO.Data\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -150,8 +180,8 @@
         "frameworks": {
           "netcoreapp3.1": {
             "projectReferences": {
-              "C:\\Users\\rodrigo.ramalho\\Desktop\\MyApiComplete\\src\\DevIO.Business\\DevIO.Business.csproj": {
-                "projectPath": "C:\\Users\\rodrigo.ramalho\\Desktop\\MyApiComplete\\src\\DevIO.Business\\DevIO.Business.csproj"
+              "C:\\Users\\rodrigo.ramalho\\Desktop\\MyAPIComplete\\src\\DevIO.Business\\DevIO.Business.csproj": {
+                "projectPath": "C:\\Users\\rodrigo.ramalho\\Desktop\\MyAPIComplete\\src\\DevIO.Business\\DevIO.Business.csproj"
               }
             }
           }
@@ -167,23 +197,23 @@
           "dependencies": {
             "Microsoft.EntityFrameworkCore": {
               "target": "Package",
-              "version": "[3.1.1, )"
+              "version": "[3.1.6, )"
             },
             "Microsoft.EntityFrameworkCore.Design": {
               "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
               "suppressParent": "All",
               "target": "Package",
-              "version": "[3.1.1, )"
+              "version": "[3.1.6, )"
             },
             "Microsoft.EntityFrameworkCore.SqlServer": {
               "target": "Package",
-              "version": "[3.1.1, )"
+              "version": "[3.1.6, )"
             },
             "Microsoft.EntityFrameworkCore.Tools": {
               "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
               "suppressParent": "All",
               "target": "Package",
-              "version": "[3.1.1, )"
+              "version": "[3.1.6, )"
             }
           },
           "imports": [

@@ -10,15 +10,10 @@ namespace DevIO.Data.Context
     public class MyDbContext : DbContext
     {
         public MyDbContext(DbContextOptions<MyDbContext> options)
-         : base(options)
-        {
-
-        }
+         : base(options) { }
 
         public DbSet<Produto> Produtos { get; set; }
-
         public DbSet<Endereco> Enderecos { get; set; }
-
         public DbSet<Fornecedor> Fornecedores { get; set; }
 
         protected override void OnModelCreating(ModelBuilder modelBuilder)
@@ -53,6 +48,4 @@ namespace DevIO.Data.Context
             return base.SaveChangesAsync(cancellationToken);
         }
     }
-
-    
 }
